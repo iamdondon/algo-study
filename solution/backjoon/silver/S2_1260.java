@@ -1,4 +1,4 @@
-package solution.backjoon;
+package solution.backjoon.silver;
 
 //import util.Graph;
 
